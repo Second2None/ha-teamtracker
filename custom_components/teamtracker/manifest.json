@@ -1,6 +1,6 @@
 {
-  "domain": "teamtracker",
-  "name": "Team Tracker",
+  "domain": "teamtracker-s2n",
+  "name": "Team Tracker [s2n]",
   "codeowners": ["@vasqued2"],
   "config_flow": true,
   "dependencies": [],
