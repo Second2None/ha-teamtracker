@@ -100,6 +100,14 @@ LEAGUE_MAP = {
         CONF_SPORT_PATH: SOCCER,
         CONF_LEAGUE_PATH: "ger.1",
     },
+    "BUND2": {
+        CONF_SPORT_PATH: SOCCER,
+        CONF_LEAGUE_PATH: "ger.2",
+    },
+    "DFB.POKAL": {
+        CONF_SPORT_PATH: SOCCER,
+        CONF_LEAGUE_PATH: "ger.dfb_pokal",
+    },
     "CL": {
         CONF_SPORT_PATH: SOCCER,
         CONF_LEAGUE_PATH: "uefa.champions",
